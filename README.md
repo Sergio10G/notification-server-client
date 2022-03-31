@@ -1,1 +1,1 @@
-# Hito Grupal
+# Notification server-client
